@@ -35,7 +35,7 @@ class Pos_Size_App(App):
         rl = RelativeLayout(size=(300, 300))
         currencies = ["Dollar", "Euro", "Robux", "Dong"]
 
-        results = Label(text="Fuck", pos=(352, 135), size_hint=(.2, .1))
+        results = Label(text="Results", pos=(352, 135), size_hint=(.2, .1))
 
         #self.hide_widget(results)
         b5 = Button(text="Convert", pos=(352, 235), size_hint=(.2, .1))
