@@ -1,0 +1,128 @@
+Usd Conversions
+Usd- 1
+Euro- 0.84
+Yen- 104.65
+Bitcoin- 0.000063
+Peso- 20.42
+Pound- 0.76
+Dong- 23176
+Robux- 286
+Gta- 56021.38
+Xau- 0.000532176
+
+
+Euro conversions
+Usd- 1.19
+Euro- 1
+Yen- 124.49
+Bitcoin- 0.000061
+Peso- 24.07
+Pound- 0.90
+Dong- 27615.25
+Robux- 340
+Gta- 66665.45
+Xau- 0.000613827
+
+
+Yen conversions
+Usd- 0.0096
+Euro- 0.0080
+Yen- 1
+Bitcoin- 0.000000492297
+Peso- .19
+Pound- 0.0072
+Dong- 221.78
+Robux- 3
+Gta- 537.81
+Xau- 0.00000507802
+
+
+Bitcoin conversions
+Usd- 19590.70
+Euro- 16411.42
+Yen- 2044465.86
+Bitcoin- 1
+Peso- 395066.06
+Pound- 14687.34
+Dong- 452940381.50
+Robux- 5597343
+Gta- 1097498,10029
+Xau- 10.99
+
+
+Peso conversions
+Usd- 0.050
+Euro- 0.042
+Yen- 5.17
+Bitcoin- 0.0000025
+Peso- 1
+Pound- 0.037
+Dong- 1147.57
+Robux- 14
+Gta- 2,801.07
+Xau- 0.0000278908
+
+
+Pound conversions
+Usd- 1.33
+Euro- 1.12
+Yen- 139.18
+Bitcoin- 0.000068
+Peso- 26.89
+Pound- 1
+Dong- 30878
+Robux- 380
+Gta- 75508.44
+Xau- 0.000750296
+
+
+Dong conversions
+Usd- .000043
+Euro- .000036
+Yen-  0.0045
+Bitcoin- 0.00000000219102
+Peso- .00087
+Pound- .000032
+Dong- 1
+Robux- .00000015
+Gta- 2.41
+Xau- 0.0000000242166
+
+
+Robux conversions
+Usd- .0034965
+Euro- .00293706
+Yen- .3659
+Bitcoin- .00000022
+Peso- .0713986
+Pound-.00265
+Dong- 81.03
+Robux- 1
+Gta-195.878951
+Xau- .00000186
+
+
+GTA conversions
+Usd- .00001785
+Euro- .00001499
+Yen- .001868
+Bitcoin- .00000000112455
+Peso-.0003645
+Pound- .00001357
+Dong- .4136916
+Robux- .0051051
+Gta- 1
+xau-.000000009499234
+
+
+xau conversions
+Usd- 1779.07
+Euro- 1489.48
+Yen- 185,429.44
+Bitcoin- 0.0907152
+Peso- 35842.05
+Pound- 1332.43
+Dong- 41242933.71
+Robux- 508306
+Gta- 99,665,961.16
+Xau- 1
