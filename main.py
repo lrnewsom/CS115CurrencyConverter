@@ -57,7 +57,7 @@ def file_input():
                 lines = fp.read().splitlines()
             # print(lines)
             for entry in lines:
-                split = entry.split(' ') # this makes a list object
+                split = entry.split(' ')  # this makes a list object
                 new_dictionary[split[0]] = int(split[1])
             # print(new_dictionary)
             file.close()
