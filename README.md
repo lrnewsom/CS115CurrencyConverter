@@ -2,6 +2,8 @@
 
 To run this project type "py main.py" in the command-line.
 
+Also you must have Kivy installed on your computer along with your python installation.
+
 A white window will pop up but you can click away from it at first.
 
 If using a custom currency, make sure to format it exactly like the included "Pepe.txt" file otherwise you will probably crash the program.
