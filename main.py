@@ -33,7 +33,7 @@ def main():
                 print("Invalid choice, try again...")
                 valid = False
     else:
-        GUI.run()
+        GUI().run()
 
 
 def file_input():
