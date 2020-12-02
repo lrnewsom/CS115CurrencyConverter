@@ -12,3 +12,5 @@ If using a custom currency, make sure to format it exactly like the included "Pe
 
 2 B) If using the GUI you can click back to the white window, and then use the dropdown menus to select what currencies you are using, then enter a value in the middle of the screen, and the finally press the convert button to get your result in the bottom right corner.
 
+CURRENCY DEFAULT OPTIONS: United States Dollar("USD") European Union Euro("Euro") Mexican Peso ("Peso") Japanese Yen("Yen") Gold Standard("XAU") Grand Theft Auto Dollars("GTA$") Vietnamese Dong("Dong") Roblox("Robux") United Kingdom Sterling Pound("Pound") Bitcoin("Bitcoin")
+  Type only what is inside of the ("") when asked for a currency name.
