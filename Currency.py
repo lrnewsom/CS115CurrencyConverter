@@ -53,10 +53,10 @@ class Currency:
             print("{} converts to {} at a rate of {}".format(self.name, key, self.conversion[key]))
     """
     def add_entry(self, name="", dic={}):
-        print(dic)
+        # print(dic)
         self.conversion[name] = dic
         for key in self.conversion.keys():
             for n in dic.keys():
                 if key == n:
                     self.conversion[key][name] = float(1.0/dic[n])
-        print(self.conversion)
+        # print(self.conversion)

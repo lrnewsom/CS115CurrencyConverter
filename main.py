@@ -12,23 +12,23 @@ def main():
             if mode == "y":
                 valid = True
                 dic, new_name = file_input()
-                o = input("What is your starting currency?")
-                name = input("What do you want to convert to?")
-                amount = float(input("How much do you want to convert?"))
+                o = input("What is your starting currency?: ")
+                name = input("What do you want to convert to?: ")
+                amount = float(input("How much do you want to convert?: "))
                 money = Currency(o, name, amount)
                 money.add_entry(new_name, dic)
                 converted = money.convert()
                 # money.show_rates()
-                print("Converted ${:,.2f} USD to {:,.2f} {}".format(amount, converted, name))
+                print("Converted {:,.2f} {} to {:,.2f} {}".format(amount, o, converted, name))
             elif mode == "n":
                 valid = True
-                original = input("What is your starting currency?")
-                amount = float(input("How much do you want to convert?"))
-                name = input("What do you want to convert to?")
+                original = input("What is your starting currency?: ")
+                amount = float(input("How much do you want to convert?: "))
+                name = input("What do you want to convert to?: ")
                 money = Currency(original, name, amount)
                 converted = money.convert()
                 # money.show_rates()
-                print("Converted ${:,.2f} USD to {:,.2f} {}".format(amount, converted, name))
+                print("Converted {:,.2f} {} to {:,.2f} {}".format(amount, original, converted, name))
             else:
                 print("Invalid choice, try again...")
                 valid = False

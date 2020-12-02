@@ -1,3 +1,4 @@
 Pepe 1
 USD 300
 Euro 123
+Yen 1000
